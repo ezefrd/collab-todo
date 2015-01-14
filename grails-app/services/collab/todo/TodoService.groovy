@@ -6,6 +6,6 @@ import grails.transaction.Transactional
 class TodoService {
 
     def serviceMethod() {
-
+		"Prueba"
     }
 }
